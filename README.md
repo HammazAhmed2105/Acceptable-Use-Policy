@@ -1,3 +1,40 @@
+# Creating an Acceptable Use Policy (AUP)
+
+## Objective  
+Understand the importance of an Acceptable Use Policy (AUP) and its role in managing user behavior and ensuring compliance within an organization.
+
+## Steps  
+
+### 1. Understanding AUP  
+- **What is an AUP?**  
+  An Acceptable Use Policy defines what is and isn’t acceptable in terms of technology use, including company-owned devices, networks, and internet usage.  
+- **Examples of acceptable vs. unacceptable behaviors:**  
+  - Acceptable: Using company email for work-related communication, following security policies.  
+  - Unacceptable: Accessing inappropriate websites, installing unauthorized software.  
+
+### 2. Drafting an AUP  
+- **Research the structure and common components** of an AUP:  
+  - Purpose  
+  - Scope  
+  - Prohibited activities  
+  - Consequences of violations  
+- **Draft an Acceptable Use Policy** that can be implemented in a fictional company. The policy should specify acceptable use of:  
+  - Company devices  
+  - Internet access  
+  - Email  
+  - Social media  
+
+### 3. Review & Refinement  
+- Gather feedback on the AUP draft to ensure clarity and completeness.  
+- Consider real-world scenarios like:  
+  - **BYOD (Bring Your Own Device)** policies  
+  - **Remote work** considerations  
+
+## Deliverables  
+- 📄 A written **Acceptable Use Policy** document.  
+- 🔍 A **short explanation** of the key points of the policy and their importance for cybersecurity.  
+
+---
 ### Introduction
 Welcome to the Quantum Lab Acceptable Use Policy (AUP) document. This policy outlines the guidelines for appropriate use of the organization's information resources, including devices, networks, and internet access. Here, you will find clear expectations designed to protect the security and integrity of Quantum Lab's assets, comply with legal regulations, and foster a productive and secure environment for all users.
 
