@@ -1,4 +1,4 @@
-Introduction
+### Introduction
 Welcome to the Quantum Lab Acceptable Use Policy (AUP) document. This policy outlines the guidelines for appropriate use of the organization's information resources, including devices, networks, and internet access. Here, you will find clear expectations designed to protect the security and integrity of Quantum Lab's assets, comply with legal regulations, and foster a productive and secure environment for all users.
 
 By adhering to these guidelines, personnel can contribute to the effective and ethical use of company technology resources. This document covers various topics, including internet and email usage, device security, access management, data protection, and mobile device policies. It also provides clarity on what constitutes acceptable and unacceptable behaviors in the workplace to prevent misuse and security incidents.
